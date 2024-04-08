@@ -26,14 +26,18 @@ I am a backend developer with a passion for building scalable and efficient syst
 - Golang
 - C#
 - C++
+- Delphi
   
 ### Architectural Patterns
 - Hexagonal Architecture
 - Clean Architecture
+- DDD
+- MVVM
 
 ### Databases
 - MongoDB
 - PostgreSQL
+- MySql
 
 ### Messaging Systems
 - RabbitMQ
@@ -47,6 +51,12 @@ I am a backend developer with a passion for building scalable and efficient syst
 - GitHub Actions
 - Jenkins
 
+
+## Learning
+- AI
+- Blockchain
+- System Design
+- Frontend
 <!--
 ## Projects
 
