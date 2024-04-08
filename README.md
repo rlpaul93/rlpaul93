@@ -53,7 +53,7 @@ I worked in the health sector developing digital solutions for Afya, working on 
 
 ## Contact Me
 
-You can reach out to me via email at [ricardoluizpaul@gmail.com](mailto:ricardoluizpaul@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/yourprofile/).
+You can reach out to me via email at [ricardoluizpaul@gmail.com](mailto:ricardoluizpaul@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/ricardoluizpaul/).
 
 Looking forward to collaborating with you!
 
