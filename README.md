@@ -1,20 +1,4 @@
-### Hi there 👋
-
-<!--
-**rlpaul93/rlpaul93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with Golang, PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, Kubernetes, Hexagonal Architecture, Clean Architecture, DDD
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Hi there 👋, I'm Ricardo Luiz Paul, Software Engineer
 
 ## About Me
 
@@ -38,6 +22,7 @@ I am a backend developer with a passion for building scalable and efficient syst
 - MongoDB
 - PostgreSQL
 - MySql
+- Redis
 
 ### Messaging Systems
 - RabbitMQ
@@ -51,23 +36,21 @@ I am a backend developer with a passion for building scalable and efficient syst
 - GitHub Actions
 - Jenkins
 
-
 ## Learning
 - AI
 - Blockchain
 - System Design
 - Frontend
-<!--
+- DevOps
+
 ## Projects
 
-Here are a few projects I've worked on:
+I have experience in projects for the defense sector, working on solutions for Avibras ASTROS artillery system, military simulation systems for the Brazilian Army developed in partnership with the Federal University of Santa Maria (UFSM).
 
-1. [Project Name](link-to-project): Brief description of the project.
-2. [Project Name](link-to-project): Brief description of the project.
-3. [Project Name](link-to-project): Brief description of the project.
+I also have experience developing solutions for the financial market, working as a backend developer for TC in developing the TC Economatica market analysis platform.
 
-Feel free to check out my GitHub profile for more projects and contributions.
--->
+I worked in the health sector developing digital solutions for Afya, working on a pharmacy price comparison project, integrating different partners into a single search engine for the digital health market.
+
 ## Contact Me
 
 You can reach out to me via email at [ricardoluizpaul@gmail.com](mailto:ricardoluizpaul@gmail.com) or connect with me on [Linkedin](https://www.linkedin.com/in/yourprofile/).
