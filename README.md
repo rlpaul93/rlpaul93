@@ -28,6 +28,10 @@ I am a backend developer with a passion for building scalable and efficient syst
 - RabbitMQ
 - Google Pub/Sub
 
+### Cloud Platforms
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
+
 ### Containerization & Orchestration
 - Docker
 - Kubernetes
